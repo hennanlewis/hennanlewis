@@ -1,11 +1,21 @@
-### Hi there 👋
+### Oi, eu sou o Hennan!
 
+- 🔭 Atualmente trabalho em dois projetos privados:
+  - WEBCEUA: sistema para gerenciamento de CEUA (Comissão de Ética na Utilização de Animais)
+  - Cangaceiros Mangás: site para leitura de mangás
+- 🌱 Atualmente estudo algumas tecnologias como MongoDB, PostgreSQL, e do ambiente React.js, com destaque ao Next.js (melhor framework React.js ❤️)
+- 🤔 Procurando constantemente melhorar minhas habilidades no Frontend (nunca tá bom o suficiente 😪)
+
+<div align="center">
+  <a href="https://github.com/hennanlewis">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hennanlewis&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hennanlewis&layout=compact&langs_count=7&theme=dark"/>
+</div>
 <!--
 **hennanlewis/hennanlewis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
