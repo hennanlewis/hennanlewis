@@ -1,9 +1,8 @@
 ### Oi, eu sou o Hennan!
 
-- 🔭 Atualmente trabalho em dois projetos privados:
-  - WEBCEUA: sistema para gerenciamento de CEUA (Comissão de Ética na Utilização de Animais)
+- 🔭 Atualmente tenho apenas um projeto privado:
   - Cangaceiros Mangás: site para leitura de mangás
-- 🌱 Atualmente estudo algumas tecnologias como MongoDB, PostgreSQL, e do ambiente React.js, com destaque ao Next.js (melhor framework React.js ❤️)
+- 🌱 Atualmente estudo algumas tecnologias como MongoDB, Google Firebase, e do ambiente React.js, com destaque ao Next.js (melhor framework React.js ❤️)
 - 🤔 Procurando constantemente melhorar minhas habilidades no Frontend (nunca tá bom o suficiente 😪)
 
 <div align="center">
