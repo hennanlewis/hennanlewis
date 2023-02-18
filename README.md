@@ -2,7 +2,7 @@
 ### Sobre mim:
 - Sou Hennan Lewis, graduado em Engenharia da Computação pela Universidade Federal do Ceará (UFC)
 - Apesar de conhecer um pouco de back-end, tenho bem mais intimidade com front-end.
-- Meu foco de estudos é atualmente o Next.js ❤️, um framework do React.js
+- Meu foco de estudos é atualmente o Next.js
 - Procurando constantemente melhorar minhas habilidades de design (sempre dá pra polir mais um pouquinho)
 
 ## Tecnologias com maior familiaridade:
